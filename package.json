@@ -1,5 +1,5 @@
 {
-  "name": "json2html",
+  "name": "@nerddiana/json2html",
   "version": "1.0.0",
   "description": "Dependency free parser from JSON to HTML.",
   "main": "index.js",
@@ -15,5 +15,6 @@
     "parser"
   ],
   "author": "Diana Nerd <diana@diananerd.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
