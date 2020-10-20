@@ -2,6 +2,14 @@
 
 This is a minimal library for transform JSON to HTML.
 
+Install package:
+```sh
+# Try this command only after configure your project for work with GitHub Package Registry.
+# for more info visit:
+# https://docs.github.com/en/free-pro-team@latest/packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages 
+npm i @nerddiana/json2html --save
+```
+
 The valid input JSON structure is:
 ```js
 // this is a valid json for nodes
