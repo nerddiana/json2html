@@ -75,5 +75,9 @@ Output:
 <div id="1" class="foo"><h2>sample text with <code>inline tag</code></h2><pre id="demo" class="foo bar">foo</pre><pre id="output" class="goo">goo</pre><input id="execute" type="button" value="execute" /></div>
 ```
 
+Run the example:
+```sh
+node examples/hello-world
+```
 
-* Note: this library is currently not published in npm registry *
+* Note: this library is only published in the GitHub Package Registry.
